@@ -23,4 +23,4 @@ A real time Python video player that uses the sh1106 OLED screen and OpenCV to p
 
 Add you own .mp4 videos called 0.mp4, 1.mp4 etc. into the folder that the program code is stored in.
 
-Video of the Retro_Player in Action: 
+Video of the Retro_Player in Action: https://www.youtube.com/watch?v=sOkLrHYF0rQ&feature=youtu.be
