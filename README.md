@@ -7,6 +7,6 @@ A real time Python video player that uses the sh1106 OLED screen and OpenCV to p
 
 Install 
 
-OpenCV: full guide here - https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
-Set up sh1106 OLED screen on 2IC: https://www.youtube.com/watch?v=LdOKXUDw2NY
-Luma install: https://luma-oled.readthedocs.io/en/latest/install.html
+* OpenCV: full guide here - https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
+* Set up sh1106 OLED screen on 2IC: https://www.youtube.com/watch?v=LdOKXUDw2NY
+* Luma install: https://luma-oled.readthedocs.io/en/latest/install.html
