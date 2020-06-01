@@ -9,7 +9,7 @@ import numpy as np
 import time
 import random
 
-# set up button
+#  set up button
 from gpiozero import Button
 button = Button(21)
 
