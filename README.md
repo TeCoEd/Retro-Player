@@ -7,7 +7,7 @@ A real time Python video player that uses the sh1106 OLED screen and OpenCV to p
 
 (Based on a sh1306 project https://www.hackster.io/souvik-saha/raspberry-pi-based-ssd1306-oled-video-player-4dfc3b)
 
-<h1> Install 
+<h4> Install <h4/>
 
 * OpenCV: full guide here - https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
 * Set up sh1106 OLED screen on 2IC: https://www.youtube.com/watch?v=LdOKXUDw2NY
