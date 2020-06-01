@@ -1,5 +1,5 @@
 # Retro-Player
-OLED screen Retro Player - plays videos in real time.
+sh110 6 OLED screen Retro Player - plays videos in real time.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31OGEX)
 
